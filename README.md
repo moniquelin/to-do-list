@@ -11,7 +11,7 @@ Users can:
 
 ## Log for Major Improvements
 
-Empty for now
+- 20 December 2024: Added entry point to create another task from add task and see tasks menu
 
 ## Future Improvements
 
